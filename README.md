@@ -6,10 +6,10 @@
 
 ```text
 .
-├── DM2_1_SVM.ipynb                         #1. Linear Regression
+├── DM2_1_K_fold_Cross_Validation.ipynb                        #1. Linear Regression
 ├── DM2_2_SVM.ipynb               			#2. Logistic Regression
-├── DM2_3_SVM.ipynb							#3. Logistic Regression
-├── DM2_4_SVM.ipynb							#4. Logistic Regression
+├── DM2_3_Association_Rule_Mining.ipynb						#3. Logistic Regression
+├── DM2_4_PCA_and_K_Means.ipynb						#4. Logistic Regression
 ├── DM2_5_SVM.ipynb            				#5. Real World Classification
 ├── README.md                                
 ├── data/                                    
